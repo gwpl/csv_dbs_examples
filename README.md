@@ -12,6 +12,22 @@ http://csvkit.readthedocs.io/en/0.9.1/install.html
 * More about [LibreOffice Base](https://en.wikipedia.org/wiki/LibreOffice)
 * File assumes you linked csv inputs under : `/tmp/csv_dbs_examples/csv_inputs`
 
+# Notes
+
+## csvsql
+
+	csvsql --query 'SELECT CDTitle,Location,Artist FROM CDs JOIN Artists ON CDs.ArtistID=Artists.ArtistID JOIN Locations ON CDs.LocID = Locations.LocID' "$@"
+
+Produces:
+
+| CDTitle  | Location  | Artist  |
+| -------- | --------- | ------- |
+| CDTitle1 | Location1 | Artist1 |
+| CDTitle2 | Location2 | Artist1 |
+| CDTitle3 | Location1 | Artist2 |
+| CDTitle4 | Location2 | Artist2 |
+
+
 # Screenshots
 
 ## LibreOffice Base - imported csv files
