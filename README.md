@@ -13,3 +13,9 @@ http://csvkit.readthedocs.io/en/0.9.1/install.html
 * File assumes you linked csv inputs under : `/tmp/csv_dbs_examples/csv_inputs`
 
 # Screenshots
+
+## LibreOffice Base - imported csv files
+
+![LibreOffice Base Form Example](screenshots/LibreOffice_Base_Form_Example_of_Locations_to_CDs_to_Artists_Resolution_Screenshot_20170514.png)
+
+![LibreOffice Base Tables Example](LibreOffice_Base_Tables_Screenshot_20170514.png)
