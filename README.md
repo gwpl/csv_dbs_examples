@@ -7,6 +7,8 @@ Purpose is to have convenient set of CSV files for testing CSV imports and joins
 ## csvsql, csvlook
 http://csvkit.readthedocs.io/en/0.9.1/install.html
 
+	pip install csvkit
+
 ## ODS - LibreOffice Base
 
 * More about [LibreOffice Base](https://en.wikipedia.org/wiki/LibreOffice)
