@@ -16,6 +16,11 @@ http://csvkit.readthedocs.io/en/0.9.1/install.html
 
 ## LibreOffice Base - imported csv files
 
+![LibreOffice Base - Database Wizard - Step 1](screenshots/LibreOffice_Base_DB_Wizard_Step1_Screenshot_20170514.png)
+
+![LibreOffice Base - Database Wizard - Step 2](screenshots/LibreOffice_Base_DB_Wizard_Step2_Screenshot_20170514.png)
+
+![LibreOffice Base Tables Example](screenshots/LibreOffice_Base_Tables_Screenshot_20170514.png)
+
 ![LibreOffice Base Form Example](screenshots/LibreOffice_Base_Form_Example_of_Locations_to_CDs_to_Artists_Resolution_Screenshot_20170514.png)
 
-![LibreOffice Base Tables Example](LibreOffice_Base_Tables_Screenshot_20170514.png)
